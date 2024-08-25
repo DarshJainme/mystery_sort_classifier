@@ -466,6 +466,7 @@ void solve(int tc){
     s.erase(sortreq);
     cout<<"Sort number "<< *s.begin()<< " is Bubble Sort"<<endl;
     cout<<"Thank you and have a wonderful day :)"<<endl;
+    delete array;
 }
 int main()
 {
