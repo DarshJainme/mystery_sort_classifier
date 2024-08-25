@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 #include "mystery_sort.h"
-#define seev(a) for(auto x:a){cout<<x<<" ";}cout<<endl;
 
 using namespace std;
 
